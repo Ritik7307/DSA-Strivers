@@ -2,6 +2,13 @@
 ## DSA A2Z SHEET : https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 
 
+## Array:
+1. Largest Element in an array
+2. Second Largest Element in an array
+3. Remove Duplicates from Sorted Array
+4. Left Rotate the Array by one place
+
+
 📘 Step 1: Basics (DO NOT SKIP)
 📺 Playlist: A2Z – Basics
 Topics:
