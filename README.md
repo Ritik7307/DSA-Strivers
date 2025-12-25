@@ -7,6 +7,7 @@
 2. Second Largest Element in an array
 3. Remove Duplicates from Sorted Array
 4. Left Rotate the Array by one place
+5. Left Rotate Array by k places
 
 
 📘 Step 1: Basics (DO NOT SKIP)
